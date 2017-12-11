@@ -1,0 +1,50 @@
+July 23rd 2013. BOOST15673 of Youtube, EE Heaven & Empire Creations has FOUND a way to change BOTH values. The problem for a very long time was that you could easily change a unit's end epochs no problem, but NOT the start epochs, it's as if the game would ignore the value completely! Well, not anymore, follow me on a guide... A guide of epicness, and how to solve this problem...
+
+NOTE: As of writing this guide, I have NO prior programming, reverse engineering knowledge OR education. This is just some random person who found this value, BOOST15673 is nothing more than that at this point in time! Well ok I am an aspiring hex editor for Empire Earth, but that's all!
+
+First and foremost, in order to define if I must change some wording or not, is the "Command Unit" available in the original EE also, or only AOC?
+
+
+__________________________________________________________________________________________________________________________
+Step 1: Download "EE Unit", it is a unit, building, technology editor for EE. It can change almost anything. Resource costs, build speed, transport capacity, total max health, etc. SO MANY things, yet be warned, it IS a bit unstable in the sense that values it changes does nothing. Most notable with changing Hit Points & Start Epochs of anything.
+
+Step 2: Find a random unit, change it's start and end epochs to anything you want. For example the F-15 Fighter, change it's end epoch to "WW2", and it's start epoch to "WW1". Save, and open your game. Start in WW1, build an airport, realize that the F-15 isn't there, advance to the Modern Age where it should be. Realize upgrading your fighters still grant you no F-15. You see, the last epoch it's in is WW2 and thus it is not in the Modern Age after upgrading your previous fighter. Now you're probably wondering "Why wasn't it in the WW1 Airport then?" Welcome to EE Unit! Check EE Unit, find the F-15, you will notice that STILL the Start & End Epochs are what you changed them to.
+
+You see, THIS is the problem that has been hurting the modding scene for YEARS. Changing the end epoch would work, but the game ignores any changes to the start epoch! Now we will fix that. FIRST, in order to avoid any glitching or unnecessary changes/forgetting stuffs, change the F-15's start and end epochs back to "Modern Age" & "Doesn't End", save, and check your game, everything should be back to normal. If not, then well I don't know what to say, this was never a problem for me.
+
+Step 3: Download "Wolfie's Campaign Extractor", this thing is HARD to find though, so don't expect to find it within 10 min. of searching, it's over a decade old you know... After you have it, select "Open" and then go to your Empire Earth, and your Empire Earth Art of Conquest folders, and extract both of their "data.ssa" files. After that select "Export All" and let the program do it's thing by both of the data.ssas.
+
+Now you have all files extracted and uncompressed from both EE's and can officially do some REAL modifications to the game.
+
+Step 4: Find a hex editor. I use "HxD", but it is not advised if you are impatient and a beginner. Why? I was a beginner when getting into EE editing with no prior hex editing knowledge, but didn't want the easy hex editors because I thought they were "Babyish/Childish", BUT, I had patience and that's why I have been using HxD ever since first starting hexing for EE back in September 2011.
+
+Step 5: Open "dbobjects.dat" from ART OF CONQUEST, NOT the original Empire Earth. We will be using the Command Unit for this guide seeing as this is also the unit where I first found the "extra" start epoch's value to begin with.
+
+NOTE: I will be telling you how to navigate in "HxD" hex editor, if you have a different one, then you must find certain tools and stuffs on your own.
+
+Press "Ctrl + F" to open the search function. Select in "Search Direction", "All", and search for "x13 Grigor II", but make sure "Datatype" is set to "Text-string". x13 Grigor II is what the Command Unit is in hex for some reason, some units are named MUCH differently than in the actual game.
+
+Step 6: See "×£°?Land Patrolling" below the name? From there, go down until you run into a bunch of thing in this order:
+
+ÍÌL?ÍÌŒ?......À?
+..€?......€>..´B
+........ÿÿÿÿ....
+
+From there, you see a decent amount of "FF" with some "0D 00 00 00 0F 00 00 00", "5D 00 00 01" and such mixed in? Well the "0D 00 00 00 0F" are the start and end epoch values. "0D" (14 as a decimal) means the same in game aka starting in the Nano Age. "0F" (16 as a decimal) means in game "Doesn't End", the same as it says in EE Unit. This just means that it will be available in the Space Age and even further on (If we ever get any more than 15 Epochs).
+
+Step 7: IF you are using HxD hex editor, open a second tab by dragging and dropping or opening "dbtechtree.dat". Now we have the two required files open. In dbtechtree.dat, search for "(Grigor II)", I have no idea why it's a different name than in the dbobjects.dat though... Then look around for these values "93 05 00 00 0C 00 00 00 0F" they should be only 6 lines down from the name. Ignore everything there EXCEPT "0C 00 00 00 0F" This is also the start and end epochs for the Command Unit. But do you notice the difference between that in the dbobjects.dat & dbtechtree.dat files? Yeah, in dbobjects it's "0D" instead of here where it's "0C". The reason is simple, in dbtechtree.dat the start and end epoch values are one less than the actual value.
+
+An example is a unit that runs from Renaissance - Industrial Age. In game it would be epochs 7 - 9, which in hex WOULD be "07 00 00 00 09", but since they subtract it by one in this file, it's instead "06 00 00 00 08". If a unit has an ending epoch of "Doesn't End", like the Canine Scout per se, then this value will STILL be "0F", NOT "0E".
+
+Step 8: Now that you know pretty much as much as the rest of the modding community does about start & end epoch values, we can move on. Switch back to "dbobjects.dat" and go to where you found the "0D 00 00 00 0F 00 00 00" and "5D 00 00 01", from the "5D 00 00 01" go down 16 times aka press the down arrow on your keyboard 16 times. you should be on a line now that looks exactly like this "00 00 00 00 93 05 00 00 00 00 01 00 00 00 00 00" See the "93 05 00 00 00 00 01"? Move onto the next step if so!
+
+Step 9: This is the easiest of them all, change the "93 05 00 00 00 00 01" to "93 05 01 01 00 00 01", DONE! Save the file's changes now, open EE, your game version should've changed. Now go into the scenario editor, bring up the unit's tab list thingy, select "Epoch", look at Epoch number 1 and look for "Command Unit", don't see it? Scroll down the list to Epoch 14, you see him now? If so, then CONGRATULATIONS!! You have OFFICIALLY changed a unit's starting epoch!! Now you have the power to change ANYTHING'S end AND start epochs!!
+
+Step 10: I suggest using EE Unit to change start and end epochs as it's much easier, just make sure you set the correct "00 00" to "01 01" in a file using a hex editor, or the start epochs won't change. If EE Unit still doesn't help you, then you must do it yourself via hex editing, but trust me, it's NO BIGGIE AT ALL! :)
+
+Step 11 (Modders Only): You think a unit has bad start and end epochs? WELL, either A, all you gotta do is follow this guide to change that, or B, you have to do this and change the button position of the unit, either way, it is 100% OBSOLETE to replace ANY units at ALL!!
+
+BOOST15673 here, hoping I have helped the modding community a little further. Now we have one less thing to search for, starting and end epochs are now officially 100% moddable, and well, I WILL sum up a list of ->AT LEAST<- all the scenario editor unit's start & end epoch values, plus what "00 00" to change to "01 01". This may be a text document aka a forum topic, or it may be a download as a collection of pictures, one way or another, it'll be done soon enough. Stay tuned!!
+__________________________________________________________________________________________________________________________
+
+BOOST15673 found these values..., don't say YOU found these values, I DID, not you, don't be a douche about it and wrongly take credit...

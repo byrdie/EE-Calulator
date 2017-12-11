@@ -1,0 +1,4 @@
+Make sure to press Ctrl + C to bring up the "Offset search" function!
+
+Population limit:			 Offset = 2F0
+Civilians at resource patch limit:       Offset = 27C

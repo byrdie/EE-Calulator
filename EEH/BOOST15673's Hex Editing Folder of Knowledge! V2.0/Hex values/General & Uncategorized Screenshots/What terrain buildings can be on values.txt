@@ -1,0 +1,44 @@
+Change the values from "00" to "01" to grant the possibilties listed below.
+
+The terrain names below can be found in the scenario editor. I did not make any names up.
+YOU CAN COMBINE VALUES FOR COMBINED BUILDING PLACES! What I mean is for example, read below about building on the cliffs. Yeah, combine that with the value that allows you to build on Grass, Ice, Mars - Glacier, etc. and BAM, you can build on cliffs NO PROBLEM AT ALL! Just to be sure (This is untested though) you could simply change ALL values to "01" so you can build EVERYWHERE! Well, for now maybe not the value for building on water or space only since citizens can't get there haha.
+
+Only observe the values that are within the BIG black box. Any values outside of the BIG black box are irrelevant to what I found and/or are not denoted at all below.
+
+All "00" = Can't build building anywhere at all.
+
+Values highlighted via colored boxes:
+___________________________________________________________________________________________________________________________
+
+All 00s without highlights = Can't build building anywhere at all.
+
+Black Highlight = Grass, Ice, Mars - Glacier, Mars - Ice Cliff, Mars - Polar Cap, Mars - Snow Glacier, Snow, Snow - Dirt Patches, Snow - Grass Patches, Snow - Tufts, Underwater Terrain, Weeds, White.
+
+Gray Highlight = Can be built on WATER ONLY. No seriously, not half land, half water like a Dock, but really ONLY 100% on water surface only, in the middle of the ocean for example!
+
+Red Highlight = Mars - Lava Flow, Mars - Orange Rocky, Mars - Red Craters, Mars - Red Rocky, Mars - Striations, Mars - Water, Pebbles, Rock, Rock 2, Smooth Stone, Stonework - Brick, Stonework - Cobblestones, Stonework - Flagstone, Stonework - Marble Tiles 1, Stonework - Marble Tiles 2, Stonework - Mossy Stones, Stonework - Smooth Stones, Stonework - Tech Plating.
+
+Orange = Cracked Earth - Dark.
+
+Yellow = Dry Leaves, Grass - Overgrown, Grass - Patches, Grass - Sparse, Grass - Tall, Grass - Tufts.
+
+Bright Green = Asphalt, Blackness, Pavement
+
+Green = Can be built on CLIFFS ONLY. No seriously, really ONLY 100% on cliffs ONLY, You know, the one terrain where you can never build on no matter what? The annoyance in scenario map making where you have to make the top of mountains flat so it can be built on? YEP! But, since you need a square for (in this case) the Teleporter, it is impossible to work because once you make a square it becomes grass and no longer a cliff. This could be perfect for towers or walls!
+
+Lime Green = Shallow water. You know how sometimes you find water to shallow for ships, but shallow enough as to where only citizens, infantry and such can walk through? Yeah, you can build on top of that.
+
+Greenish Aquaish = Beach, Desert, Mars - Brown Craters, Mars - Red Craters, Mars - Sand Dunes, Sand - Coarse, Sand - Cracked, Sand - Medium, Sand - Fine.
+
+Aqua = Can be built in SPACE ONLY. No seriously, really ONLY 100% IN SPACE ONLY. This would be GREAT for the Orbital Space Station wonder... If you could only somehow put citizens in a Space Transport and have them build from the Space Transport. I can make citizens traverse space but that obviously is a little, well, UNREALISTIC YA KNOW?
+
+___________________________________________________________________________________________________________________________
+
+It would seem as if there are some "families" of sorts, just like with units and buildings. For example, a few families seem to be:
+Mars & Winter (including standard grass and default underwater terrain), Mars & Rock/Stone, Grasses, Man-made terrain, Mars & Sands, etc.
+
+Must still figure out which values to combine to get a building to be like the Dock or Space Dock. One could check out the Dock/Space Dock in dbobjects.dat and just compare value to see I would think...
+
+Now all we gotta do is somehow figure out how to make some completely new code that would allow buildings to float in the air. I mean think about the future! I don't think buildings will be on the ground forever...
+
+NOTE (DON'T INCLUDE IN THIS TEXT DOCUMENT, FOR YOU ONLY TO SEE): After making all highlighted boxes and suchs, circle the values that make you not be able to build anywhere at all. These values SHOULD be in between the ones you highlighted with boxes! If the Teleporter doesn't seem to work when you finished this text document and are done with the Teleporter for this, then just simply find the original extracted UNMODIFIED dbobjects.dat and copy and paste the HEX SECTION of the Teleporter, DO NOT REPLACE THE ENTIRE DBOBJECTS.DAT!!!

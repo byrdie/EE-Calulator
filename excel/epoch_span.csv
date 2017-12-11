@@ -1,0 +1,234 @@
+,Start Epoch,End Epoch
+ Tower - Primitive,1,2
+ Tower - Copper,3,3
+ Tower - Bronze,4,5
+ Tower - Medieval,6,7
+ Tower - Palisades,1,15
+ Tower - Bamboo,,
+ Tower - Imperial,8,9
+ 88mm AA Gun,10,12
+ Tower - Concrete,10,12
+ AA Missile Tower,13,14
+ Tower - Laser,13,14
+ Space Turret,15,15
+ Tower - Space,15,15
+ AA Missile Tower,15,15
+ Fokker Fighter/Bomber,10,10
+ Sopwith Fighter,10,10
+ Gotha Bomber,10,10
+ Catalina,,
+ Spitfire Fighter,,
+ B-29 Bomber,11,11
+ ME109  Fighter/Bomber,,
+ P-51 Fighter,11,11
+ B-17 Bomber,11,11
+ Typhoon Anti-Tank,11,11
+ Corsair Fighter/Bomber,11,11
+ ME262 Fighter/Bomber,11,11
+ Heinkel Bomber,,
+ Dauntless,,
+ Zero (Carrier Based),,
+ Zero,,
+ F-15 Fighter,12,12
+ B-2 Bomber,12,12
+ F-14 Fighter/Bomber,12,12
+ B-52 Bomber,12,12
+ A-10 Anti-Tank,12,12
+ F-117 Fighter/Bomber,12,12
+ Titan Bomber,13,15
+ Talon Fighter/Bomber,13,13
+ B-122 Wyvern Bomber,13,15
+ Jackal Fighter,13,13
+ Avenger Fighter/Bomber,13,15
+ Phoenix Fighter/Bomber,14,15
+ Nebula Fighter,14,15
+ Planetary Fighter,15,15
+ War Raft,2,2
+ Galley - Copper,3,3
+ Battleship - Copper,3,3
+ Frigate - Copper,3,3
+ Galley - Bronze,4,4
+ Catapult Ship - Bronze,,
+ Frigate - Bronze,4,4
+ Battleship - Bronze,4,4
+ Battleship - Byzantine,5,5
+ Galley - Byzantine,5,5
+ Frigate - Byzantine,5,5
+ Galley - Middle Ages,6,6
+ Battleship - Middle Ages,6,6
+ Frigate - Middle Ages,6,6
+ Catapult Ship,,
+ Galleon - Renaissance,7,7
+ Battleship - Renaissance,7,7
+ Frigate - Renaissance,7,7
+ Cruiser - Gunboat,8,8
+ Galleon - Imperial,8,8
+ Battleship - Imperial,8,8
+ Frigate - Imperial,8,8
+ Battleship - Royal,9,9
+ Frigate - Royal,9,9
+ Galleon - Royal,9,9
+ Cruiser - Dardo,10,10
+ Frigate - Good Hope,10,10
+ Naval Mine,,
+ Battleship - Dreadnought,10,10
+ Battleship - Bismarck,11,12
+ Frigate - Warrington,11,12
+ Battleship - Leviathan,13,15
+ Frigate - Juggernaut,13,15
+ Cruiser - Sagittarian,13,15
+ Clubman,1,2
+ Rock Thrower,1,1
+ Spearman,2,3
+ Slinger,2,2
+ Sampson,2,2
+ Simple Bowman,3,4
+ Maceman,3,3
+ Horseman,3,3
+ Simple Bowman (Fire),,
+ Chariot Archer,4,5
+ War Elephant,4,4
+ Stone Thrower,4,5
+ Short Sword,4,5
+ Phalanx,4,5
+ Ram,4,5
+ Catapult,4,5
+ Bronze Cavalry,4,5
+ Elephant Archer,4,4
+ Javelin,4,4
+ Scorpion,,
+ Composite Bow,5,5
+ Crossbow,5,7
+ Pilum,5,7
+ Cataphract,5,6
+ Persian Cavalry,5,6
+ Viking,5,7
+ Barbarian,5,7
+ Composite Bow (Fire),,
+ Cavalry Archer,6,7
+ Long Bow,6,7
+ Long Sword,6,7
+ Pikeman,6,7
+ Trebuchet,6,7
+ Knight,6,6
+ Ballista,6,6
+ Heavy Ram,6,7
+ Long Bow (Fire),,
+ Arquebus,7,7
+ Culverin,7,8
+ Basilisk,7,8
+ Royal Cuirassier,7,8
+ Carabineer,7,8
+ Musketeer,8,8
+ Bombard,8,9
+ Halberdier,8,9
+ Sharpshooter,8,9
+ Hand Cannoneer,8,9
+ Dragoon,9,9
+ Grenadier,9,9
+ Serpentine,9,9
+ Bronze Cannon,9,9
+ Imperial Cuirassier,9,9
+ Elite Guard,8,9
+ Partisan,9,10
+ 57mm AT Gun,10,11
+ Machine Gun,10,12
+ Hovercraft,,
+ Artillery,10,12
+ Flak Halftrack,10,12
+ Trench Mortar,10,11
+ MkV Tank (HE),10,10
+ Doughboy,10,10
+ A7V Tank (AP),10,10
+ Howitzer Cannon,10,12
+ Grenade Launcher,10,10
+ Sniper,10,12
+ Radio Man,,
+ Marine,11,12
+ Bazooka,11,12
+ Flame Thrower,11,12
+ Panzer Tank (AP),11,11
+ Sherman Tank (HE),11,11
+ SAS Commando,,
+ Sherman - Flamethrower,,
+ 120mm AT Gun,12,12
+ Stinger Soldier,12,12
+ M1 Tank (HE),12,12
+ Heavy Mortar,12,12
+ Leopard Tank (AP),12,12
+ Colossus Artillery,13,15
+ Sentinel,13,13
+ Gladiator Tank,13,13
+ Minotaur,13,13
+ Thor AT Gun,13,13
+ Furies,13,13
+ Pandora,13,13
+ Hyperion,13,13
+ Paladin Cannon,13,15
+ Skywatcher AA,13,15
+ Anti Missile Battery,,
+ Guardian,14,14
+ Hercules AT Gun,14,15
+ Zeus,14,15
+ Minotaur II,14,15
+ Hyperion II,14,15
+ Pandora II,14,15
+ Centurion Tank,14,15
+ Watchman,15,15
+ Mining Unit,,
+ Cyber Ninja,,
+ Dune Patrol,,
+ Citizen,1,15
+ Female Citizen,1,15
+ Helicopter Anti-Tank,12,12
+ Sea King,12,13
+ Helicopter Gunship,12,12
+ Reaper Gunship,13,15
+ Sea King II,14,15
+ Spectre AT Helicopter,13,15
+ Ares,13,13
+ Ares II,14,15
+ Sub - U-Boat,10,11
+ Sub - Nautilus,12,13
+ Sub - Trident,12,13
+ Sub - Hammerhead,14,15
+ Sub - Triton,14,15
+ Sargon of Akkad,3,3
+ Alexander the Great,4,4
+ Short Sword (Crusader),,
+ Bronze Cavalry (Crusader),,
+ Gaius Marius,,
+ Charlemagne,5,5
+ William the Conqueror,6,6
+ Long Sword (Crusader),,
+ Knight (Crusader),,
+ Isabella of Castile,7,7
+ Elizabeth I,8,8
+ Otto von Bismarck,9,9
+ DeVerran,10,10
+ Erwin Rommel,11,11
+ RW Bresden,12,12
+ Alexi Septimus,13,13
+ Tempest,,
+ Molly Ryan,14,14
+ Khan Sun Do,15,15
+ Gilgamesh,3,3
+ Hannibal,4,4
+ Greek Captain,,
+ Julius Caesar,5,5
+ Julius Caesar,,
+ Richard the Lionheart,6,6
+ Henry V,7,7
+ Oliver Cromwell,8,8
+ Napoleon,9,9
+ Manfred von Richthofen,10,10
+ Travis Shackelford,11,11
+ Lt. Stock,,
+ 'Bulldog' Ramsey,,
+ Dennis St. Albans,12,12
+ Sergei Molotov,13,13
+ Cyborg Molotov,14,14
+ Hu Kwan Do,15,15
+ Space Capital Ship,15,15
+ Space Corvette,15,15
+ Space Fighter,15,15

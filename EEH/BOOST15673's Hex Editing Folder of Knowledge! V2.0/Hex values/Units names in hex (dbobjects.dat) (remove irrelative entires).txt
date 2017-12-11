@@ -1,0 +1,234 @@
+These names listed here are only if you might not find them if you search for their actual name. Per se, you search for "Medic - Atomic" but find nothing. There are scenario editor only units listed here also. Art of Conquest Expansion is needed if you are wondering "What are these weird units listed here I never heard of before?!"
+
+Use EE Unit if you are having a hard time finding a unit's name in hex and it's not listed here. It lists the units by Epoch and in their hex names, so for example under the word "Epoch Stone" it would list all technologies, units, buildings, etc. that are in the Stone Age, then comes "Epoch Copper" and it does the same, so on for every epoch. Thus it is SIMPLE to find the required hex name! At least for dbobjects.dat/dbtechtree.dat!
+__________________________________________________________________________________________________________________________
+Units & Buildings:
+__________________________________________________________________________________________________________________________
+
+Normal Units:
+-------------
+
+Bronze Cavalry = Cav04 - Bronze Spear Cavalry
+Bronze Cavalry (Crusader) = Cav04 - Bronze Spear Cavalry(Crusader)
+Short Sword (Crusader) = Inf04 - Short Sword(Crusader)
+Crossbow = Arch05 - Cross Bow
+Huskarl = x06 Housecarl
+Long Sword = Inf06 - LongSword
+Long Sword (Crusader) = Inf06 - LongSword(Crusader)
+Medic - Atomic = Field Medic 11
+SAS Commando = Inf10 - SAS Explosive Expert
+Medic - Digital = Field Medic 13
+Simple Bowman = Arch03 - Simple Bowman(Flaming)
+Javelin = Inf04 - Javelin
+
+
+Scenario Editor Only Units:
+---------------------------
+
+Command Unit = x13 Grigor II
+Chinese Infantry = x04 Chinese Pikeman
+Persian Immortal = x04 Persian Infantry "Immortal"
+Medic - WWII = Field Medic WWII
+Advanced Mining Unit = x BIG Mining Unit (dbobjects.dat)
+
+
+Heroes (Normal AND Scenario Editor Only):
+-----------------------------------------
+
+Duke of Wellington = x09 Wellington +4 (Morale)
+Gaius Marius = h Marius (heal, conscript)
+Grigor Stoyanovich = x13 Grigor +4 (Morale)
+William on Foot = x06 Horseless William
+The Pope = x05 Pope
+Manfred von Richthofen = x10 Richthofen
+Erwin Rommel = h1-11 Rommel (heal)
+Travis Shackelford = h2-11 Shackelford (Morale)
+Dennis St. Albans = h2-12 St. Albans (Morale)
+General Bhuta Kwai = x General Buta Kwai
+Prophet Durer = x11 Hauptmann Durer [Prophet]
+RW Bresden = h1-12 R.W. Bresden (heal)
+
+
+Siege Weapons:
+--------------
+
+Colossus Artillery = Mega-Artillery (?)
+57mm AT Gun = AT Gun - 157mm1
+Ballista = Balistae
+Heavy Siege Tower = Siege Tower 06
+
+
+Aircraft:
+---------
+
+F-117 = Stealth Fighter
+Helicopter Anti-Tank = Apache Helicopter, a Helicopter Apache Longbow 12 (dbobjects.dat)
+Helicopter Gunship = Helicopter MG, a HelicopterGunShip12 Gun Ship (dbobjects.dat)
+Helicopter Transport = Chinook Heli Trans
+Reaper Gunship = a HelicopterGunShip13 Reaper (dbobjects.dat)
+P-38 Lightning = P38 (dbobjects.dat)
+ME262Fighter/Bomber = a Strafe Fighter11 ME262 (dbobjects.dat)
+MiG-15 Fighter = x11a MiG-15 (dbobjects.dat)
+Zero (Carrier Based) = a Carrier Fighter11 Zero (dbobjects.dat)
+Zero = a Strafe Fighter11 Zero (dbobjects.dat)
+F-86 Fighter = x11a F-86 Sabre (dbobjects.dat)
+P-51 Fighter = a Fighter11 P51 (dbobjects.dat)
+P-80 Fighter = x11a F-80 Shooting Star (dbobjects.dat)
+Spitfire Fighter = a Fighter11 Spitfire (dbobjects.dat)
+Corsair Fighter/Bomber = a CarrierFighter11 Corsair1 (dbobjects.dat)
+Jackal Fighter = a Fighter13 F-48 Jackal (dbobjects.dat)
+Nebula Fighter = a Fighter14 F-96 Nebula (dbobjects.dat)
+Planetary Fighter = a Fighter15 Planetary Fighter (dbobjects.dat)
+
+
+Tanks:
+------
+
+Hover Tank = Tank Nano
+Flak Haltrack = 10 AA - Tank (dbobjects.dat)
+
+
+Ships:
+------
+
+Fishing Boat - Bronze = s05 Fishing Boat - Dark (dbtechtree.dat)
+Fishing Boat - Trawler = s11 Fishing boat - Atomic (dbtechtree.dat)
+Fishing Boat - Digital = s13 Dig. Fishing Boat (dbtechtree.dat)
+
+Transport Raft = Transport Stone(nav)
+Transport Boat - Bronze = Transport Dark  (nav)
+
+War Raft = s02 Stone Frigate [War Raft] (dbobjects.dat)
+
+
+Catapult Ship - Bronze = s04 Trireme - Catapult (dbtechtree.dat), Trireme (catapult) (dbbuttons.dat), s04 Bronze Catapult Ship (dbobjects.dat)
+Catapult Ship = s06 Decereme - Catapult (dbtechtree.dat), s06 Middle Age Catapult Ship (dbobjects.dat)
+
+Golden Hind = x07 Golden Hind (dbobjects.dat)
+
+Frigate - Copper = s03 Super War Raft (dbtechtree.dat), s03 Copper Frigate (dbobjects.dat)
+Frigate - Bronze = s04 Pentakonter - Frigate (dbtechtree.dat), Pentekontar (frigate) (dbbuttons.dat), s04 Bronze Frigate (dbobjects.dat)
+Frigate - Byzantine = s04 Super Pentakonter Frigate (dbtechtree.dat), s05 Byzantine Frigate (dbobjects.dat)
+Frigate - Middle Ages = s06 Decereme Frigate (dbtechtree.dat), s06 Middle Age Frigate (dbobjects.dat)
+Frigate - Renaissance = s07 Galleon - Frigate (dbtechtree.dat), Galleon (frigate) (dbbuttons.dat), s07 Renaissance Frigate (dbobjects.dat)
+Frigate - Imperial = s08 Henri - Frigate (dbtechtree.dat), Henri (Frigate) (dbbuttons.dat), s08 Imperial Frigate (dbobjects.dat)
+Frigate - Royal = s09 Victory - Frigate (dbtechtree.dat), Victory (frigate) (dbbuttons.dat), s09 Royal Frigate (dbobjects.dat)
+Frigate - Good Hope = s10 Good Hope Frigate (dbtechtree.dat), s10 Good Hope Frigate (dbobjects.dat)
+Frigate - Warrington = s11 Warrington (dbtechtree.dat, dbobjects.dat)
+Frigate - Juggernaut = s13 Destroyer 13 (dbtechtree.dat), Destroyer 12 (dbbuttons.dat), s13 Juggernaut Frigate (dbobjects.dat)
+
+Galley - Copper = s03 Fire Galley (dbtechtree.dat), s03 Copper Galley (dbobjects.dat)
+Galley - Bronze = s04 Super Fire Galley (dbtechree.dat), s04 Bronze Galley (dbobjects.dat)
+Galley - Byzantine = s05 Fire Trireme (dbtechtree.dat), s05 Byzantine Galley (dbobjects.dat)
+Galley - Middle Ages = s06 Super Fire Trireme (dbtechtree.dat), s06 Middle Age Galley (dbobjects.dat)
+Galleon - Renaissance = s07 Explosive Galleon (dbtechtree.dat) Galleon (fire) (dbbuttons.dat), s07 Renaissance Galleon (dbobjects.dat)
+Galleon - Imperial = s08 Super Explosive Galleon (dbtechtree.dat), s08 Imperial Galleon (dbobjects.dat)
+Galleon - Royal = s09 Explosive Victory (dbtechtree.dat), s09 Royal Galleon (dbobjects.dat)
+
+Battleship - Copper = s03 Galley (dbtechtree.dat), Galley (dbbuttons.dat), s03 Copper Battleship [Galley] (dbobjects.dat)
+Battleship - Bronze = s04 Pentakonter (dbtechtree.dat), s04 Bronze Battleship [Pentakonter] (dbobjects.dat)
+Battleship - Byzantine = s05 Trireme (dbtechree.dat), Trireme (battleship) (dbbuttons.dat), s05 Byzantine Battleship [Septrireme] (dbobjects.dat)
+Battleship - Middle Ages = s06 Decereme (dbtechree.dat), Decereme (battleship) (dbbuttons.dat), s06 Middle Ages Battleship [Decereme] (dbobjects.dat)
+Battleship - Renaissance = s07 Galleon (dbtechtree.dat), Galleon (fire) (dbbuttons.dat), s07 Renaissance Battleship [Galleon] (dbobjects.dat)
+Battleship - Imperial = s08 Henri (dbtechtree.dat), Henri (dbbuttons.dat), s08 Imperial Battleship (dbobjects.dat)
+Battleship - Royal = s09 Victory (dbtechtree.dat), Victory (dbbuttons.dat), s09 Royal Battleship (dbobjects.dat)
+Battleship - Agincourt = (Agincourt) (dbtechtree.dat), x09 Agincourt Battleship (dbobjects.dat)
+Battleship - Dreadnought = s10 Dreadnought, s10 Dreadnought Battleship (dbobjects.dat)
+Battleship - Bismarck = s11 Bismarck, s11 Bismarck Battleship (dbobjects.dat)
+Battleship - Leviathan = s13 Battleship13 (dbtechtree.dat), Battleship - Nano (dbbuttons.dat), s13 Leviathon Battleship (dbobjects.dat)
+
+Cruiser - Gunboat = s08 Gunboat Cruiser (dbobjects.dat)
+Cruiser - Dardo = s10 Cruiser (dbtechtree.dat, dbobjects.dat)
+Cruiser - Saggitarian = s13 Sagitarian (dbtechtree.dat), Sagitarian Cruiser (dbbuttons.dat), s13 Sagitarian Cruiser (dbobjects.dat)
+
+Sub - U-Boat = s10 Submarine 1 (dbtechtree.dat), Sub1 (dbbuttons.dat)
+Sub - Nautilus = s12 Modern Submarine (dbtechtree.dat), Sub3 (dbbuttons.dat)
+Sub - Hammerhead = s12 Submarine 4 (dbtechtree.dat), Sub4 (dbbuttons.dat)
+Sub - Trident = s12 Submarine 2 Nuc (dbtechtree.dat), Sub 2 Nuc (dbbuttons.dat)
+Sub - Triton = s14 Submarine 5 Nuc (dbtechtree.dat), Sub 5 Nuc (dbbuttons.dat)
+
+Japanese Carrier = x Japanese Flattop (dbtechtree.dat) Japanese Flattop (dbbuttons.dat)
+Carrier - Enterprise = s11 Aircraft Carrier 1 (dbtechtree.dat), Aircraft Carrier 1 (dbbuttons.dat)
+Carrier - Nexus = s12 Aircraft Carrier 2 - Nexus (dbtechtree.dat) Aircraft Carrier 2 (dbbuttons.dat)
+
+
+Mechs:
+------
+
+Pandora = Mech Cyclops (dbbuttons.dat)
+Pandora II = Mech Cyclops II (dbbuttons.dat)
+Poseidon = Mech Poseiden (dbbuttons.dat)
+Zeus II = x Mech Zeus (prototype)
+Zeus = Mech Zeus (dbbuttons.dat)
+Zeus II = Mech Zeus II (prototype) (dbbuttons.dat)
+Command Unit = xSP Grigor II (dbbuttons.dat)
+
+
+Heroes:
+-------
+
+General Bhuta Kwai = x General Buta Kwai (dbobjects.dat)
+'Bulldog' Ramsey = Hero Bulldog Ramsey (Morale) (dbobjects.dat)
+Hu Kwan Do = h2 - 15 Hu Kwan Do (Warrior) (dbobjects.dat)
+German Officer = x10 German Officer (heal) (dbobjects.dat)
+Erwin Rommel = h1-11 Rommel (heal) (dbobjects.dat)
+Khan Sun Do = h1 - 15 Khan Sun Do (Strategist) (dbobjects.dat)
+Grigor Stoyanovich = x13 Grigor +4 (Morale) (dbobjects.dat)
+Duke of Wellington = x09 Wellington +4 (Morale) (dbobjects.dat)
+Napoleon = h2-9 Napoleon (Morale) (dbobjects.dat)
+DeVerran = h1-10 DeVerran (heal) (dbobjects.dat)
+Otto von Bismarck = h1-9 Otto Von Bismarck (heal) (dbobjects.dat)
+Lt. Stock = h Lt. Stock (dbobjects.dat)
+Dennis St. Albans = h2-12 St. Albans (Morale) (dbobjects.dat)
+Travis Shackelford = h2-11 Shackelford (Morale) (dbobjects.dat)
+Manfred von Richthofen = x10 Richthofen (dbobjects.dat)
+Alexi Septimus = h1-13 Alexi Septimus (heal) (dbobjects.dat)
+Black Robe Officer = x13 Black Robe Officer (heal) (dbobjects.dat)
+RW Bresden = h1-12 R.W. Bresden (heal) (dbobjects.dat)
+Sergei Molotov = h2-13 Sergei Molotov (Morale) (dbobjects.dat)
+Cyborg Molotov = h2-14 Cyborg Molotov (Morale) (dbobjects.dat)
+Molly Ryan = h1-14 Molly Ryan (heal) (dbobjects.dat)
+
+
+Space Units:
+------------
+
+Space Capitol Ship = Sp15 - Capital Ship (dbobjects.dat)
+__________________________________________________________________________________________________________________________
+Upgrades (Most likely only in "dbbuttons.dat"):
+__________________________________________________________________________________________________________________________
+
+Aircraft:
+---------
+
+Upgrade to P-51 Fighter = P51 Upgrade
+Upgrade to Reaper Gunship = Helicopter Reapor Upgrade
+Upgrade to Nebula Fighter = F 96 Upgrade
+Upgrade to Jackal Fighter = F-48 Upgrade
+
+
+Siege Weapons:
+--------------
+
+Upgrade to Howitzer = Gun10 - Alpha Upgrade (Apparently this SOMEHOW affects the Paladin Cannon's also)
+Upgrade to Siege Gun - Paladin = Gun10 - Alpha Upgrade (Apparently this SOMEHOW affects the Howitzer's also)
+Upgrade to Siege Gun - Serpentine = Sepentine Upgrade
+
+Tanks:
+------
+
+Upgrade to Skywatcher AA = AATank 13 Upgrade
+
+
+Ships:
+------
+
+Upgrade to Sub - Nautilus = Uboat 11 Upgrade
+Upgrade to Sub - Hammerhead = Uboat 12 Upgrade
+
+
+Mechs:
+------
+
+Upgrade to Pandora II = Cyclops II Upgrade
+Upgrade to Ares II = Apollo II Upgrade (Ares II upgrade does not exist in dbbuttons.dat, nor does Apollo have an upgrade to begin with! Possible mix up from Sierra/Mad Doc?)

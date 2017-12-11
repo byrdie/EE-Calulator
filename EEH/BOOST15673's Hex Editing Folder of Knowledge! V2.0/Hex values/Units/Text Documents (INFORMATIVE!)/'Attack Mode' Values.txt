@@ -1,0 +1,111 @@
+Select "Format" then "Word Wrap" to read this properly:|
+-------------------------------------------------------|
+
+Thanks to the microsoft word document "200864222055 (NOT from BOOST15673).doc" included in my realism mod's file I found out the "attack mode" location of Hyperion 1. As helpful as this guide is, it is incomplete. Observe below, using Hyperion 1's "attack mode" value. I have changed it to EVERY single hex number from "00" - "FF" to see what combinations come out. Below is a 100% COMPLETE list of different "attack modes", which can be used, seemingly, for ANY unit in EE!! YOU'RE WELCOME! :)
+
+P.S. - Attack Mode is simply what type of units it can attack.
+
+P.S.S. - Importantly, notice how many attack modes have multiple values? Each value has a different damage/resistance multiplier. For example, a unit with a "1A" value will somehow do much less damage than it's attack stat towards ALL subs. If the same unit has a value of "2C" it will do the exact damage it's damage stat states against ALL subs, but therefore less against buildings. It's VERY tricky!
+___________________________________________________________________________________________________________________________
+
+
+
+Fires at NOTHING AT ALL!:
+-------------------------
+24, 25, 3B, 3C, 42, 43, 6A, 6B, 81, 82, 88, 89, B0, B1, C7, C8, CE, CF, DB, DD, E4, F6, F7
+
+Fires at air units only Values:
+-------------------------------
+07, 0C, 4D, 52, 98
+
+Fires at ground units only Values:
+----------------------------------
+E5
+
+Fires at subs only Values:
+--------------------------
+09, 4F, 95
+
+Fires at space units only Values:
+---------------------------------
+3F, 41, 85, 87, CB, CD, D9, DE
+
+Fires at ships only Values:
+---------------------------
+0B, 51, 97
+
+Fires at buildings only Values:
+-------------------------------
+13, 59, 9F
+
+Fires at ground and subs only Values:
+-------------------------------------
+1A
+
+Fires at ground and wild animals only Values:
+---------------------------------------------
+14, 5A, 5B, A0
+
+Fires at subs and ships units only Values:
+------------------------------------------
+12, 58, 9E
+
+Fires at space and buildings only Values:
+-------------------------------------------
+3D, 83, C9
+
+Fires at ground, buildings and wild animals only Values:
+-------------------------------------------------------
+08, 33, 4E, 79, 94, BF
+
+Fires at ground, ships and wild animals only Values:
+----------------------------------------------------
+1E, 64, AA
+
+Fires at ground, ships and buildings only Values:
+-------------------------------------------------
+2F, 75, BB
+
+Fires at air, ground, ship and building units only Values:
+----------------------------------------------------------
+28, 29, 3A, 6E, 6F, 80, B4, B5, C6
+
+Fires at air, sub, ship and building units only Values:
+-------------------------------------------------------
+F0
+
+Fires at ground, ships, buildings, wild animals units only Values:
+------------------------------------------------------------------
+00, 02, 03, 04, 05, 06, 0A, 0D, 0E, 10, 11, 15, 16, 17, 18, 19, 1B, 1C, 1F, 21, 22, 26, 27, 2A, 2B, 2D, 2E, 30, 31, 34, 35, 36, 37, 38, 39, 46, 48, 49, 4A, 4B, 4C, 50, 53, 54, 56, 57, 5C, 5D, 5E, 5F, 61, 62, 65, 67, 68, 6C, 6D, 70, 71, 73, 74, 76, 77, 7A, 7B, 7C, 7D, 7E, 7F, 8C, 8E, 8F, 90, 91, 92, 93, 96, 99, 9A, 9C, 9D, A1, A2, A3, A4, A5, A7, A8, AB, AD, AE, B2, B3, B6, B7, B9, BA, BC, BD, C0, C1, C2, C3, C4, C5
+
+Fires at ships, subs, ground and buildings only Values:
+-------------------------------------------------------
+01, 47, 8D, D3
+
+Fires at air, ground, ships, buildings and wild animals only Values:
+-------------------------------------------------------------------
+0F, 1D, 20, 23, 32, 55, 63, 66, 69, 78, 9B, A9, AC, AF, BE
+
+Fires at air, ground, subs, ships, buildings units only Values:
+---------------------------------------------------------------
+D2, D4, D5, D6, D7, D8, DA, DC, DF, E0, E2, E3, E6, E7, E8, E9, EA, EB, EC, ED, EE, EF, F1, F2, F3, F4, F5, F8, F9, FC, FD, FE, FF
+
+Fires at ground, subs, ships, buildings and wild animals units only Values:
+---------------------------------------------------------------------------
+1A, 2C, 60, 72, A6, B8
+
+Fires at air, ground, subs, space, ships and buildings only Values:
+-------------------------------------------------------------------
+E1
+
+Fires at ground, subs, space, ships and buildings units only Values:
+--------------------------------------------------------------------
+FA, FB
+
+Fires at air, ground, space, ships, buildings and wild animals only Values:
+---------------------------------------------------------------------------
+3E, 84, CA
+
+Fires at air, ground, subs, space, ships, buildings and wild animals (basically everything) only Values:
+--------------------------------------------------------------------------------------------------------
+40, 44, 45, 86, 8A, 8B, CC, D0, D1

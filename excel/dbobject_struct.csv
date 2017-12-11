@@ -1,0 +1,493 @@
+DB Name,c1,100,2
+Sequence Number,c2,4,1
+Family,c3,4,1
+,c4,4,1
+First Epoch,c5,4,1
+Object ID,c6,4,1
+Health,c7,4,1
+,c8,4,1
+Min Range,c9,4,3
+Max Range,c10,4,3
+Line of Sight,c11,4,3
+Attack Speed,c12,4,3
+Area of Effect,c13,4,3
+Speed,c14,4,3
+Accel,c15,4,3
+Idle Turn Speed,c16,4,3
+Moving Turn Speed,c17,4,3
+,c18,4,1
+,c19,4,1
+Flight Time,c20,4,1
+,c21,4,1
+Attack Angle,c22,4,3
+,c23,4,1
+Weapon Hit ID,c24,4,1
+Attack,c25,4,1
+Shock Armor,c26,4,1
+Arrow Armor,c27,4,1
+Pierce Armor,c28,4,1
+Gun Armor,c29,4,1
+Laser Armor,c30,4,1
+Missile Armor,c31,4,1
+Projectile ID,c32,4,1
+Attack Mode,c33,4,1
+,c34,4,1
+Graphic Size,c35,4,3
+Unit Type Name,c36,52,2
+Unit Type ID,c37,4,1
+,c38,4,1
+Button ID,c39,4,1
+Graphics ID,c40,4,1
+Build Rate,c41,4,3
+Iron Gather Rate,c42,4,3
+,c43,4,1
+Gold Gather Rate,c44,4,3
+Stone Gather Rate,c45,4,3
+Wood Gather Rate,c46,4,3
+Animal Gather Rate,c47,4,3
+Farm Gather Rate,c48,4,3
+Sound IDs,c49,24,1
+,c50,4,1
+Action Buttons,c51,36,1
+,c52,4,1
+Squares Occupied,c53,4,1
+Resource Type,c54,4,1
+Resource Amount,c55,4,1
+Always Face Camera,c56,1,1
+,c57,1,1
+,c58,1,1
+,c59,1,1
+,c60,4,1
+Rotting Time,c61,4,3
+Population Count,c62,4,1
+Transport Capacity,c63,4,1
+AoE,c64,1,1
+Rep,c65,1,1
+Shk,c66,1,1
+Prc,c67,1,1
+Arr,c68,1,1
+Lsr,c69,1,1
+Gun,c70,1,1
+Msl,c71,1,1
+Rng,c72,1,1
+,c73,1,1
+,c74,1,1
+,c75,1,1
+Morl,c76,1,1
+,c77,1,1
+,c78,1,1
+,c79,1,1
+,c80,4,1
+,c81,4,1
+,c82,4,3
+,c83,4,1
+Flight Altitude,c84,4,3
+Language ID,c85,4,1
+,c86,4,1
+,c87,4,1
+Health Regeneration,c88,4,1
+,c89,4,1
+,c90,4,1
+,c91,4,1
+Circle Selection Size,c92,4,3
+Shadow Size,c93,4,3
+,c94,4,1
+,c95,4,3
+Physical Size,c96,4,3
+Walkable,c97,1,1
+,c98,1,1
+,c99,1,1
+Parabolic Trajectory,c100,1,1
+,c101,4,3
+,c102,4,3
+Ammo Amount,c103,4,1
+,c104,4,1
+,c105,4,1
+,c106,4,1
+Category,c107,4,1
+,c108,4,1
+,c109,4,1
+,c110,4,1
+,c111,4,1
+Upgrade ID,c112,4,1
+,c113,4,1
+,c114,4,3
+Show in Scenario,c115,1,1
+,c116,1,1
+,c117,1,1
+,c118,1,1
+Can be Killed,c119,1,1
+,c120,1,1
+,c121,1,1
+,c122,1,1
+Low Health Effect ID,c123,4,1
+Death Effect ID,c124,4,1
+Start of Attack ID,c125,4,1
+,c126,4,1
+,c127,4,1
+,c128,4,1
+,c129,4,1
+,c130,4,1
+,c131,4,1
+,c132,4,1
+Permanent Effect,c133,4,1
+,c134,4,1
+Projectile Effect,c135,4,1
+,c136,4,1
+,c137,4,1
+,c138,4,1
+,c139,4,1
+,c140,4,1
+,c141,4,1
+,c142,4,1
+Attack Effect ID,c143,4,1
+,c144,4,1
+,c145,4,1
+,c146,4,1
+,c147,4,1
+,c148,4,1
+,c149,4,1
+,c150,4,1
+,c151,4,1
+,c152,4,1
+,c153,4,1
+,c154,4,1
+,c155,4,1
+,c156,4,1
+,c157,4,1
+,c158,4,1
+Terrain: grass and snow,c159,1,1
+Elevation: deep water,c160,1,1
+Terrain: rocks stones and artificial,c161,1,1
+,c162,1,1
+,c163,1,1
+,c164,1,1
+,c165,1,1
+,c166,1,1
+,c167,1,1
+,c168,1,1
+Terrain: asphalt,c169,1,1
+Elevation: cliffs,c170,1,1
+Elevation: shallow water,c171,1,1
+,c172,1,1
+Terrain: sand,c173,1,1
+Terrain: space,c174,1,1
+,c175,4,1
+1 deg. Area Effect ID,c176,4,1
+2 deg. Area Effect ID,c177,4,1
+3 deg. Area Effect ID,c178,4,1
+4 deg. Area Effect ID,c179,4,1
+5 deg. Area Effect ID,c180,4,1
+,c181,4,1
+,c182,4,1
+Carry Capacity,c183,4,3
+,c184,4,1
+,c185,4,1
+Show/Hide object in Scenario Editor,c186,1,1
+,c187,1,1
+Elevation: hills,c188,1,1
+,c189,1,1
+,c190,4,1
+,c191,4,1
+,c192,4,1
+,c193,4,1
+,c194,4,1
+Min Stealth Radius,c195,4,1
+,c196,4,1
+,c197,4,1
+,c198,4,1
+,c199,4,1
+Plane Build Mode,c200,4,1
+,c201,4,1
+,c202,4,1
+,c203,4,1
+,c204,4,3
+,c205,4,3
+Friendly Damage,c206,4,3
+,c207,4,3
+,c208,4,3
+,c209,4,1
+,c210,4,1
+,c211,4,1
+Objects Create Amount,c212,4,1
+Technology ID,c213,4,1
+,c214,1,1
+Stealth Mode,c215,1,1
+,c216,1,1
+,c217,1,1
+,c218,4,1
+Spawn on Death,c219,4,1
+Power,c220,4,1
+Power Recover Rate,c221,4,1
+Default Stance,c222,4,1
+,c223,4,1
+,c224,4,1
+,c225,4,1
+,c226,4,1
+,c227,4,3
+,c228,4,3
+,c229,1,1
+,c230,1,1
+Is Building,c231,1,1
+Can Attack Area,c232,1,1
+Garrison Heal Rate,c233,4,1
+,c234,4,1
+,c235,4,1
+Can Walk Through Trees,c236,1,1
+,c237,1,1
+,c238,1,1
+,c239,1,1
+Is Melee Unit,c240,1,1
+,c241,1,1
+,c242,1,1
+,c243,1,1
+,c244,4,1
+,c245,4,1
+,c246,4,1
+,c247,4,1
+,c248,4,1
+,c249,4,1
+,c250,4,1
+,c251,4,1
+,c252,4,1
+,c253,4,1
+,c254,4,1
+,c255,4,1
+,c256,4,1
+,c257,4,1
+,c258,4,1
+,c259,4,1
+,c260,4,1
+,c261,4,1
+,c262,4,1
+,c263,4,1
+,c264,4,1
+,c265,4,1
+,c266,4,1
+,c267,4,1
+,c268,4,1
+,c269,4,1
+,c270,4,1
+,c271,4,1
+,c272,4,1
+,c273,4,1
+,c274,4,1
+,c275,4,1
+,c276,4,1
+,c277,4,1
+,c278,4,1
+,c279,4,1
+,c280,4,1
+,c281,4,1
+,c282,4,1
+,c283,4,1
+,c284,4,1
+,c285,4,1
+,c286,4,1
+,c287,4,1
+,c288,4,1
+,c289,4,1
+,c290,4,1
+,c291,4,1
+Can Build Tech,c292,4,1
+Can Build Tech,c293,4,1
+Can Build Tech,c294,4,1
+Can Build Tech,c295,4,1
+Can Build Tech,c296,4,1
+Can Build Tech,c297,4,1
+Can Build Tech,c298,4,1
+Can Build Tech,c299,4,1
+Can Build Tech,c300,4,1
+Can Build Tech,c301,4,1
+Can Build Tech,c302,4,1
+Can Build Tech,c303,4,1
+Can Build Tech,c304,4,1
+Can Build Tech,c305,4,1
+Can Build Tech,c306,4,1
+Can Build Tech,c307,4,1
+Can Build Tech,c308,4,1
+Can Build Tech,c309,4,1
+Can Build Tech,c310,4,1
+Can Build Tech,c311,4,1
+Can Build Tech,c312,4,1
+Can Build Tech,c313,4,1
+Can Build Tech,c314,4,1
+Can Build Tech,c315,4,1
+Can Build Tech,c316,4,1
+Can Build Tech,c317,4,1
+Can Build Tech,c318,4,1
+Can Build Tech,c319,4,1
+Can Build Tech,c320,4,1
+Can Build Tech,c321,4,1
+Can Build Tech,c322,4,1
+Can Build Tech,c323,4,1
+Can Build Tech,c324,4,1
+Can Build Tech,c325,4,1
+Can Build Tech,c326,4,1
+Can Build Tech,c327,4,1
+Can Build Tech,c328,4,1
+Can Build Tech,c329,4,1
+Can Build Tech,c330,4,1
+Can Build Tech,c331,4,1
+Can Build Tech,c332,4,1
+Can Build Tech,c333,4,1
+Can Build Tech,c334,4,1
+Can Build Tech,c335,4,1
+Can Build Tech,c336,4,1
+Can Build Tech,c337,4,1
+Can Build Tech,c338,4,1
+Can Build Tech,c339,4,1
+Can Build Tech,c340,4,1
+Can Build Tech,c341,4,1
+Can Build Tech,c342,4,1
+Can Build Tech,c343,4,1
+Can Build Tech,c344,4,1
+Can Build Tech,c345,4,1
+Can Build Tech,c346,4,1
+Can Build Tech,c347,4,1
+Can Build Tech,c348,4,1
+Can Build Tech,c349,4,1
+Can Build Tech,c350,4,1
+Can Build Tech,c351,4,1
+Can Build Tech,c352,4,1
+Can Build Tech,c353,4,1
+Can Build Tech,c354,4,1
+Can Build Tech,c355,4,1
+Can Build Tech,c356,4,1
+Can Build Tech,c357,4,1
+Can Build Tech,c358,4,1
+Can Build Tech,c359,4,1
+Can Build Tech,c360,4,1
+Can Build Tech,c361,4,1
+Can Build Tech,c362,4,1
+Can Build Tech,c363,4,1
+Can Build Tech,c364,4,1
+Can Build Tech,c365,4,1
+Can Build Tech,c366,4,1
+Can Build Tech,c367,4,1
+Can Build Tech,c368,4,1
+Can Build Tech,c369,4,1
+Can Build Tech,c370,4,1
+Can Build Tech,c371,4,1
+Can Build Tech,c372,4,1
+Can Build Tech,c373,4,1
+Can Build Tech,c374,4,1
+Can Build Tech,c375,4,1
+Can Build Tech,c376,4,1
+Can Build Tech,c377,4,1
+Can Build Tech,c378,4,1
+Can Build Tech,c379,4,1
+Can Build Tech,c380,4,1
+Can Build Tech,c381,4,1
+Can Build Tech,c382,4,1
+Can Build Tech,c383,4,1
+Can Build Tech,c384,4,1
+Can Build Tech,c385,4,1
+Can Build Tech,c386,4,1
+Can Build Tech,c387,4,1
+Can Build Tech,c388,4,1
+Can Build Tech,c389,4,1
+Can Build Tech,c390,4,1
+Can Build Tech,c391,4,1
+Can Build Tech,c392,4,1
+Can Build Tech,c393,4,1
+Can Build Tech,c394,4,1
+Can Build Tech,c395,4,1
+Can Build Tech,c396,4,1
+Can Build Tech,c397,4,1
+Can Build Tech,c398,4,1
+Can Build Tech,c399,4,1
+Can Build Tech,c400,4,1
+Can Build Tech,c401,4,1
+Can Build Tech,c402,4,1
+Can Build Tech,c403,4,1
+Can Build Tech,c404,4,1
+Can Build Tech,c405,4,1
+Can Build Tech,c406,4,1
+Can Build Tech,c407,4,1
+Can Build Tech,c408,4,1
+Can Build Tech,c409,4,1
+Can Build Tech,c410,4,1
+Can Build Tech,c411,4,1
+Can Build Tech,c412,4,1
+Can Build Tech,c413,4,1
+Can Build Tech,c414,4,1
+Can Build Tech,c415,4,1
+Can Build Tech,c416,4,1
+Can Build Tech,c417,4,1
+Can Build Tech,c418,4,1
+Can Build Tech,c419,4,1
+Can Build Tech,c420,4,1
+Can Build Tech,c421,4,1
+Can Build Tech,c422,4,1
+Can Build Tech,c423,4,1
+Can Build Tech,c424,4,1
+Can Build Tech,c425,4,1
+Can Build Tech,c426,4,1
+Can Build Tech,c427,4,1
+Can Build Tech,c428,4,1
+Can Build Tech,c429,4,1
+Can Build Tech,c430,4,1
+Can Build Tech,c431,4,1
+Can Build Tech,c432,4,1
+Can Build Tech,c433,4,1
+Can Build Tech,c434,4,1
+Can Build Tech,c435,4,1
+Can Build Tech,c436,4,1
+Can Build Tech,c437,4,1
+Can Build Tech,c438,4,1
+Can Build Tech,c439,4,1
+Can Build Tech,c440,4,1
+Can Build Tech,c441,4,1
+Can Build Tech,c442,4,1
+Can Build Tech,c443,4,1
+Can Build Tech,c444,4,1
+Can Build Tech,c445,4,1
+Can Build Tech,c446,4,1
+Can Build Tech,c447,4,1
+Can Build Tech,c448,4,1
+Can Build Tech,c449,4,1
+Can Build Tech,c450,4,1
+Can Build Tech,c451,4,1
+Can Build Tech,c452,4,1
+Can Build Tech,c453,4,1
+Can Build Tech,c454,4,1
+Can Build Tech,c455,4,1
+Can Build Tech,c456,4,1
+Can Build Tech,c457,4,1
+Can Build Tech,c458,4,1
+Can Build Tech,c459,4,1
+Can Build Tech,c460,4,1
+Can Build Tech,c461,4,1
+Can Build Tech,c462,4,1
+Can Build Tech,c463,4,1
+Can Build Tech,c464,4,1
+Can Build Tech,c465,4,1
+Can Build Tech,c466,4,1
+Can Build Tech,c467,4,1
+Can Build Tech,c468,4,1
+Can Build Tech,c469,4,1
+Can Build Tech,c470,4,1
+Can Build Tech,c471,4,1
+Can Build Tech,c472,4,1
+Can Build Tech,c473,4,1
+Can Build Tech,c474,4,1
+Can Build Tech,c475,4,1
+Can Build Tech,c476,4,1
+Can Build Tech,c477,4,1
+Can Build Tech,c478,4,1
+Can Build Tech,c479,4,1
+Can Build Tech,c480,4,1
+Can Build Tech,c481,4,1
+Can Build Tech,c482,4,1
+Can Build Tech,c483,4,1
+Can Build Tech,c484,4,1
+Can Build Tech,c485,4,1
+Can Build Tech,c486,4,1
+Can Build Tech,c487,4,1
+Can Build Tech,c488,4,1
+Can Build Tech,c489,4,1
+Can Build Tech,c490,4,1
+Can Build Tech,c491,4,1
+Can Build Tech,c492,4,1
+,,1960,1

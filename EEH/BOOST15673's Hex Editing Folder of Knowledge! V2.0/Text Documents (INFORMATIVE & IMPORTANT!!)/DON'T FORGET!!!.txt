@@ -1,0 +1,3 @@
+When converting from decimal to hex, you MUST reverse the answer. For example, 15,000,000 in hex is E4E1C0, you must reverse it so the hex will work, the REAL hex value is not E4E1C0, but instead "C0E1E4"!
+
+Another example being the hex value comes out as "FA0" (2000 in decimal), in HxD (the hex editor I use) you must put "A0 0F"! Effectively reversing the numbers and adding a 0 to (usually) anything that is a single value, in this the F. Confusing? Yeah tell me about it, pfff!

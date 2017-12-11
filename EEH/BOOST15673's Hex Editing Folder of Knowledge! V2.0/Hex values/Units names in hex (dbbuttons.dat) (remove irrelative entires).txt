@@ -1,0 +1,185 @@
+These names listed here are only if you might not find them if you search for their actual name. Per se, you search for "Medic - Atomic" but find nothing. There are scenario editor only units listed here also. Art of Conquest Expansion is needed if you are wondering "What are these weird units listed here I never heard of before?!"
+
+Use EE Unit if you are having a hard time finding a unit's name in hex and it's not listed here. It lists the units by Epoch and in their hex names, so for example under the word "Epoch Stone" it would list all technologies, units, buildings, etc. that are in the Stone Age, then comes "Epoch Copper" and it does the same, so on for every epoch. Thus it is SIMPLE to find the required hex name! At least for dbobjects.dat/dbtechtree.dat!
+__________________________________________________________________________________________________________________________
+Units & Buildings:
+__________________________________________________________________________________________________________________________
+
+Normal Units:
+-------------
+
+Bronze Cavalry = Cav04 - Bronze Spear Cavalry
+Bronze Cavalry (Crusader) = Cav04 - Bronze Spear Cavalry(Crusader)
+Short Sword (Crusader) = Inf04 - Short Sword(Crusader)
+Crossbow = Arch05 - Cross Bow
+Huskarl = x06 Housecarl
+Long Sword = Inf06 - LongSword
+Long Sword (Crusader) = Inf06 - LongSword(Crusader)
+Medic - Atomic = Field Medic 11
+SAS Commando = Inf10 - SAS Explosive Expert
+Medic - Digital = Field Medic 13
+Simple Bowman = Arch03 - Simple Bowman(Flaming)
+Javelin = Inf04 - Javelin
+
+
+Scenario Editor Only Units:
+---------------------------
+
+Command Unit = x13 Grigor II
+Chinese Infantry = x04 Chinese Pikeman
+Persian Immortal = x04 Persian Infantry "Immortal"
+Medic - WWII = Field Medic WWII
+
+
+Heroes (Normal AND Scenario Editor Only):
+-----------------------------------------
+
+Duke of Wellington = x09 Wellington +4 (Morale)
+Gaius Marius = h Marius (heal, conscript)
+Grigor Stoyanovich = x13 Grigor +4 (Morale)
+William on Foot = x06 Horseless William
+The Pope = x05 Pope
+Manfred von Richthofen = x10 Richthofen
+Erwin Rommel = h1-11 Rommel (heal)
+Travis Shackelford = h2-11 Shackelford (Morale)
+Dennis St. Albans = h2-12 St. Albans (Morale)
+General Bhuta Kwai = x General Buta Kwai
+Prophet Durer = x11 Hauptmann Durer [Prophet]
+RW Bresden = h1-12 R.W. Bresden (heal)
+
+
+Siege Weapons:
+--------------
+
+Colossus Artillery = Mega-Artillery (?)
+57mm AT Gun = AT Gun - 157mm1
+Ballista = Balistae
+Heavy Siege Tower = Siege Tower 06
+
+
+Aircraft:
+---------
+
+F-117 = Stealth Fighter
+Helicopter Transport = Chinook Heli Trans
+
+
+Tanks:
+------
+
+Hover Tank = Tank Nano
+
+
+Ships:
+------
+
+Fishing Boat - Bronze = s05 Fishing Boat - Dark (dbtechtree.dat)
+Fishing Boat - Trawler = s11 Fishing boat - Atomic (dbtechtree.dat)
+Fishing Boat - Digital = s13 Dig. Fishing Boat (dbtechtree.dat)
+
+Transport Raft = Transport Stone(nav)
+Transport Boat - Bronze = Transport Dark  (nav)
+
+
+
+Catapult Ship - Bronze = s04 Trireme - Catapult (dbtechtree.dat)
+Catapult Ship = s06 Decereme - Catapult (dbtechtree.dat)
+
+Frigate - Copper = s03 Super War Raft (dbtechtree.dat)
+Frigate - Bronze = s04 Pentakonter - Frigate (dbtechtree.dat)
+Frigate - Byzantine = s04 Super Pentakonter Frigate (dbtechtree.dat)
+Frigate - Middle Ages = s06 Decereme Frigate (dbtechtree.dat)
+Frigate - Renaissance = s07 Galleon - Frigate (dbtechtree.dat)
+Frigate - Imperial = s08 Henri - Frigate (dbtechtree.dat)
+Frigate - Royal = s09 Victory - Frigate (dbtechtree.dat)
+Frigate - Good Hope = s10 Good Hope Frigate (dbtechtree.dat)
+Frigate - Warrington = s11 Warrington (dbtechtree.dat)
+Frigate - Juggernaut = s13 Destroyer 13 (dbtechtree.dat)
+
+Galley - Copper = s03 Fire Galley (dbtechtree.dat)
+Galley - Bronze = s04 Super Fire Galley (dbtechree.dat)
+Galley - Byzantine = s05 Fire Trireme (dbtechtree.dat)
+Galley - Middle Ages = s06 Super Fire Trireme (dbtechtree.dat)
+Galleon - Renaissance = s07 Explosive Galleon (dbtechtree.dat)
+Galleon - Imperial = s08 Super Explosive Galleon (dbtechtree.dat)
+Galleon - Royal = s09 Explosive Victory (dbtechtree.dat)
+
+Battleship - Copper = s03 Galley (dbtechtree.dat)
+Battleship - Bronze = s04 Pentakonter (dbtechtree.dat)
+Battleship - Byzantine = s05 Trireme (dbtechree.dat)
+Battleship - Middle Ages = s06 Decereme (dbtechree.dat)
+Battleship - Renaissance = s07 Galleon (dbtechtree.dat)
+Battleship - Imperial = s08 Henri (dbtechtree.dat)
+Battleship - Royal = s09 Victory (dbtechtree.dat)
+Battleship - Agincourt = (Agincourt) (dbtechtree.dat)
+Battleship - Dreadnought = s10 Dreadnought
+Battleship - Bismarck = s11 Bismarck
+Battleship - Leviathan = s13 Battleship13 (dbtechtree.dat)
+
+Cruiser - Gunboat = s08 Gunboat Cruiser (dbobjects.dat)
+Cruiser - Dardo = s10 Cruiser (dbtechtree.dat)
+Cruiser - Saggitarian = s13 Sagitarian (dbtechtree.dat)
+
+Sub - U-Boat = s10 Submarine 1 (dbtechtree.dat)
+Sub - Nautilus = s12 Modern Submarine (dbtechtree.dat)
+Sub - Hammerhead = s12 Submarine 4 (dbtechtree.dat)
+Sub - Trident = s12 Submarine 2 Nuc (dbtechtree.dat)
+Sub - Triton = s14 Submarine 5 Nuc (dbtechtree.dat)
+
+Japanese Carrier = x Japanese Flattop (dbtechtree.dat)
+Carrier - Enterprise = s11 Aircraft Carrier 1 (dbtechtree.dat)
+Carrier - Nexus = s12 Aircraft Carrier 2 - Nexus (dbtechtree.dat)
+
+
+Mechs:
+------
+
+Zeus II = x Mech Zeus (prototype)
+
+
+Heroes:
+-------
+
+
+
+Space Units:
+------------
+
+__________________________________________________________________________________________________________________________
+Upgrades (Most likely only in "dbbuttons.dat"):
+__________________________________________________________________________________________________________________________
+
+Aircraft:
+---------
+
+Upgrade to P-51 Fighter = P51 Upgrade
+Upgrade to Reaper Gunship = Helicopter Reapor Upgrade
+Upgrade to Nebula Fighter = F 96 Upgrade
+Upgrade to Jackal Fighter = F-48 Upgrade
+
+
+Siege Weapons:
+--------------
+
+Upgrade to Howitzer = Gun10 - Alpha Upgrade (Apparently this SOMEHOW affects the Paladin Cannon's also)
+Upgrade to Siege Gun - Paladin = Gun10 - Alpha Upgrade (Apparently this SOMEHOW affects the Howitzer's also)
+Upgrade to Siege Gun - Serpentine = Sepentine Upgrade
+
+Tanks:
+------
+
+Upgrade to Skywatcher AA = AATank 13 Upgrade
+
+
+Ships:
+------
+
+Upgrade to Sub - Nautilus = Uboat 11 Upgrade
+Upgrade to Sub - Hammerhead = Uboat 12 Upgrade
+
+
+Mechs:
+------
+
+Upgrade to Pandora II = Cyclops II Upgrade
+Upgrade to Ares II = Apollo II Upgrade (Ares II upgrade does not exist in dbbuttons.dat, nor does Apollo have an upgrade to begin with! Possible mix up from Sierra/Mad Doc?)
